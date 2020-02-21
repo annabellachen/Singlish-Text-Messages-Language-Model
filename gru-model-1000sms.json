@@ -1,1 +1,1 @@
-{"embed_size": 250, "hidden_size": 250, "num_layers": 1, "loss_func": "nn.CrossEntropyLoss", "learning_rate": 0.03, "optimizer": "optim.Adam", "batch_size": 250}
+{"embed_size": 250, "hidden_size": 250, "num_layers": 2, "loss_func": "nn.CrossEntropyLoss", "learning_rate": 0.03, "optimizer": "optim.Adam", "batch_size": 250}
